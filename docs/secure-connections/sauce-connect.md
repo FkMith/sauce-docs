@@ -19,7 +19,7 @@ Sauce Connect Proxy must be physically installed on the same _network_ as the ap
 ### Setup and Configuration
 
 We offer several different setup types, from the [Basic Sauce Connect Proxy Setup](/secure-connections/sauce-connect/setup-configuration/basic-setup) to the [High Availability Sauce Connect Proxy Setup](/secure-connections/sauce-connect/setup-configuration/high-availability).
-
+Ur
 As you’re configuring the setup type that’s right for you, it's important to understand how the program will interact with your network architecture components, such as proxies, firewalls, and geographically distributed data centers.
 
 ## Why We Recommend Sauce Connect Proxy over Allowlisting IP Addresses
